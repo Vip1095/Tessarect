@@ -1,2 +1,2 @@
-# Tessarect
-We are using Tessarect Library to find the text from images.
+# Tesseract
+We are using Tesseract Library to find the text from images.
